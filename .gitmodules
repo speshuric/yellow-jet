@@ -1,0 +1,3 @@
+[submodule "corefx"]
+	path = corefx
+	url = H:\\github\\dotnet\\corefx
